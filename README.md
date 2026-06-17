@@ -4,10 +4,9 @@ Generator muzical in Max
 Proiectul este un generator de muzica realizat in Cycling '74 Max/MSP, care produce
 linii melodice MIDI intr-un mod partial aleatoriu.
 ## (Instalare)
-...
+- 
 
 ## (Utilizare)
-Plug And Play 
 Se seteaza Patternul , volumul si durata notelor, BPM, Gama si grupa de note initiala.
 
 ## (Istoric)
